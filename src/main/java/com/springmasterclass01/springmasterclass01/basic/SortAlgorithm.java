@@ -1,4 +1,4 @@
-package com.springmasterclass01.springmasterclass01;
+package com.springmasterclass01.springmasterclass01.basic;
 
 public interface SortAlgorithm {
 

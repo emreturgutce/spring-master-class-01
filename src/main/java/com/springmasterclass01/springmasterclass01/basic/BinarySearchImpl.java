@@ -1,4 +1,4 @@
-package com.springmasterclass01.springmasterclass01;
+package com.springmasterclass01.springmasterclass01.basic;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.config.ConfigurableBeanFactory;
